@@ -1,0 +1,57 @@
+.name {
+    background-color: burlywood;
+}
+
+.reign {
+    background-color: cadetblue;
+}
+
+.ogedei {
+    background-color: plum;
+    color: green;
+    font-family: cursive;
+}
+
+.ogedei-date {
+    background-color: chocolate;
+    font-weight: bold;
+}
+
+.kublai {
+    background-color: coral;
+    color: green;
+    font-family: cursive;
+}
+
+.kublai-date {
+    background-color: cornsilk;
+    font-weight: bold;
+}
+
+.temur {
+    background-color: crimson;
+    color: green;
+    font-family: cursive;
+}
+
+.temur-date {
+    background-color: cyan;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: right;
+}
+
+table {
+    margin: 0 auto;
+    
+}
+
+.khan {
+    font-family: cursive;
+}
+
+.date {
+    font-weight: bold;
+}

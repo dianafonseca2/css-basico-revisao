@@ -1,0 +1,28 @@
+a {
+    color: blue;
+}
+
+p strong {
+    color: red;
+}
+
+.destaque {
+    background-color: lemonchiffon;
+    height: 40px;
+    text-indent: 1em;
+    line-height: 40px;
+}
+
+#unico {
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pequeno {
+    font-size: x-small;
+    font-weight: bold;
+}
+
